@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <br />
 ### Connect with me:
 
-[<img align="left" alt="webtricks-master.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="telegram" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/telegram.svg" />][telegram]
 <!-- [<img align="left" alt="telegram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />] [telegram] -->
 
 <br />
@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 
 
 [telegram]: https://t.me/o_l_e_z_a
-[website]: https://webtricks-master.ru/
+<!-- [website]: https://webtricks-master.ru/ -->
 
 

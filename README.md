@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Oleg
 <br />
-## I'm a Python BackendEnd Developer
-  - 💡 I like to explore new technologies
-  - :computer: Interested in web development, python, django, DRF, genetic algorithms
+## I'm a Python BackendEnd Developer <br/>
+  - 💡 I like to explore new technologies <br/>
+  - :computer: Interested in web development, python, django, DRF, genetic algorithms <br/>
   - :book: I am learning quickly and continuously <br/>
   - :mortar_board: Student of DSTU <br/>
   - :soccer: Love to play soccer <br/>

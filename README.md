@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="left" alt="Django" width="27px" height="27px" scr="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/#092E20.svg" /> 
+<img align="left" alt="Django" width="27px" height="27px" scr="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg" /> 
 
 
 

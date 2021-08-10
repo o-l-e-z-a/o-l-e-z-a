@@ -1,7 +1,10 @@
 ### Hi there 👋, I'm Oleg
 <br />
-
-
+## I'm a Python BackendEnd Developer
+- 💪 I like to write code
+- :mortar_board: Student of DSTU 
+- :book: I am learning quickly and continuously
+- :soccer: Love to play soccer 
 <br />
 <br />
 

@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[<img align="left" width="27px" height="27px" scr="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/django.svg"/>] [Django]
+[<img align="left" width="27px" height="27px" scr="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/Django.svg"/>] [Django]

@@ -5,7 +5,7 @@
 - :computer: Interested in web development, python, django, DRF, genetic algorithms <br/>
 - :book: I am learning quickly and continuously <br/>
 - :mortar_board: Student of DSTU <br/>
-- :soccer: Love to play soccer <br/>
+- :soccer: Like to play soccer <br/>
 
 ### Languages and Tools:
 
